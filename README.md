@@ -1,4 +1,4 @@
-<h3>I am someone with name ARYAN TECHIE who is Passionate in Coding and Learning some useful and useless technical stuffs</h3>
+<h3>I am someone with name ARYAN TECHIE <br> who is Passionate in Coding and Learning some useful and useless technical stuffs</h3>
 🙋‍♂️ About Me:
 
 - 🔭 I’m currently working on **[Exploiter-bot](https://top.gg/bot/839421874646548530)**
