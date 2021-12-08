@@ -7,7 +7,7 @@
 
 - 🎓Current status : TECHIE
 
-- 🏫School : R.E.D. School
+- 🏫School : NOT AVAIBALE
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
