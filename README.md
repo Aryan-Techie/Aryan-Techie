@@ -1,15 +1,15 @@
 # 📢 Important Notice: Profile Information Update
 
-👋 Hello GitHub community!
+<h3>👋 Hello GitHub community!
 
-I hope this message finds you well. Please note that all the information provided below is outdated, and many things have changed since then. For the most up-to-date details or inquiries, feel free to reach out to me on Instagram at [@aryantechie](https://www.instagram.com/aryantechie).
+I hope this message finds you well. Please note that all the information provided below is outdated, and many things have changed since then and will be upadted *soon*. For the most up-to-date details or inquiries, feel free to reach out to me on Instagram at [@aryantechie](https://www.instagram.com/aryantechie).
 
 Thank you for your understanding, and I appreciate your interest in staying connected.
 
 Best regards,  
 ARYAN Techie
 
-
+</h3>
 <hr>
 <hr>
 
