@@ -25,7 +25,7 @@
 
 ### 🔧 Projects & Creations
 
--  [**🛡️ARGON** - *Your Shield Against Chaos*](https://argon.aroice.in) - (A Chrome Extension)
+-  [**🛡️ ARGON** - *Your Shield Against Chaos*](https://argon.aroice.in) - (A Chrome Extension)
     - Helps you reduce distractions and reclaim your precious attention.
     - Custom blocking, analytics, focus mode — a mindful system for the digital world.
 
