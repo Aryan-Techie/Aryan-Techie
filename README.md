@@ -25,7 +25,7 @@
 
 ### 🔧 Projects & Creations
 
--  [**ARGON** - *Your Shield Against Chaos*](https://argon.aroice.in) - (A Chrome Extension)
+-  [**🛡️ARGON** - *Your Shield Against Chaos*](https://argon.aroice.in) - (A Chrome Extension)
     - Helps you reduce distractions and reclaim your precious attention.
     - Custom blocking, analytics, focus mode — a mindful system for the digital world.
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 🔹 Open Source Contribution(s)
+### 💎 Open Source Contribution(s)
 
 - [Quartz](https://github.com/jackyzha0/quartz) ✔⃣
   - Improved `quartz sync` to support any Git branch
