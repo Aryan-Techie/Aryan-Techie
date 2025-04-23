@@ -9,7 +9,7 @@
 - 🎓 **Computer Science** student @ *IIT Patna*
     
 - 🚀 I create tools and systems that cut through the noise and drive change.
-- ✨ I share what I learn & what inspires me — through code, writings & YouTube videos.
+- ✨ Love to share what I learn & what inspires me — through code, writings & YouTube videos.
 - 🌱 Always into: Intentional Living, Philosophy, Systems, Tech & Creativity.
 
 - 💎 **Nuggets** @ [AROICE on X](https://x.com/aryantechie)  
