@@ -9,7 +9,7 @@
 +------------------------------------------------------+
 </pre>
 
-# Hi, I'm [ARYAN TECHIE](https://youtube.com/@aroice).
+# Hi there, <br> I'm [ARYAN TECHIE](aryan@aroice.in).
 
 > *🔥 I craft tools and distill ideas  to quiet the noise, clear the mind, and live with intent.*
 <!-- > *🔥 I design tools and distill ideas — helping myself and others cut the noise, think clearly, and live with intent.* -->
