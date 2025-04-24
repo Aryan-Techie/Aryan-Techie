@@ -11,7 +11,7 @@
 
 # Hi there, <br> I'm [ARYAN TECHIE](aryan@aroice.in).
 
-> *🔥 I craft tools and distill ideas  to quiet the noise, clear the mind, and live with intent.*
+> *🔥 I craft tools and distill ideas <br> &nbsp; &nbsp; &nbsp; to quiet the noise, clear the mind, and live with intent.*
 <!-- > *🔥 I design tools and distill ideas — helping myself and others cut the noise, think clearly, and live with intent.* -->
 
 ---
@@ -90,5 +90,4 @@ Instead of listing tools for flex — here's what I *actually use* regularly:
 
 <!-- > "Create impact. Create something that resonates and truly connects." -->
 
-> "Create impact. Build what resonates, what truly connects."
-
+> ✨ "Create impact. <br> &nbsp;  &nbsp;  &nbsp;  &nbsp;Build what resonates, <br> &nbsp;  &nbsp;  &nbsp;  &nbsp;what truly connects." - [@aroice](https://aroice.in)
