@@ -40,9 +40,13 @@
     - Helps you reduce distractions and reclaim your precious attention.
     - Custom blocking, analytics, focus mode — a mindful system for the digital world.
 
-- [**INSIGHT** - *A Creator Journal*](https://insight.aroice.in)
+- [**✍ INSIGHT** - *A Creator Journal*](https://insight.aroice.in)
   - Not niche-based — just what I feel is worth sharing
   - Includes tech, mental models, creative systems, and notes from the journey.
+
+- [**🎛️ Smart Scroll** - *Reimagine volume knob*](https://insight.aroice.in)
+  - Scroll effortlessly using your volume wheel.
+  - Designed for flow, speed, and focus.
 
 
 ---
@@ -90,4 +94,4 @@ Instead of listing tools for flex — here's what I *actually use* regularly:
 
 <!-- > "Create impact. Create something that resonates and truly connects." -->
 
-> ✨ "Create impact. <br> &nbsp;  &nbsp;  &nbsp;  &nbsp;Build what resonates, <br> &nbsp;  &nbsp;  &nbsp;  &nbsp;what truly connects." - [@aroice](https://aroice.in)
+> ✨ "Create impact. Build what resonates, what truly connects." - [@aroice](https://aroice.in)
