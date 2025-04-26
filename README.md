@@ -40,11 +40,11 @@
     - Helps you reduce distractions and reclaim your precious attention.
     - Custom blocking, analytics, focus mode — a mindful system for the digital world.
 
-- [**✍ INSIGHT** - *A Creator Journal*](https://insight.aroice.in)
+- [**📝 INSIGHT** - *A Creator Journal*](https://insight.aroice.in)
   - Not niche-based — just what I feel is worth sharing
   - Includes tech, mental models, creative systems, and notes from the journey.
 
-- [**🎛️ Smart Scroll** - *Reimagine volume knob*](https://github.com/Aryan-Techie/SmartScroll)
+- [**🎛️ SMART SCROLL** - *Reimagine volume knob*](https://github.com/Aryan-Techie/SmartScroll)
   - Scroll effortlessly using your volume wheel.
   - Designed for flow, speed, and focus.
 
