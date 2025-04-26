@@ -44,7 +44,7 @@
   - Not niche-based — just what I feel is worth sharing
   - Includes tech, mental models, creative systems, and notes from the journey.
 
-- [**🎛️ Smart Scroll** - *Reimagine volume knob*](https://insight.aroice.in)
+- [**🎛️ Smart Scroll** - *Reimagine volume knob*](https://github.com/Aryan-Techie/SmartScroll)
   - Scroll effortlessly using your volume wheel.
   - Designed for flow, speed, and focus.
 
