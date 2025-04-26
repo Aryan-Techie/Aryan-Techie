@@ -27,7 +27,7 @@
 
 - ✍️ **Writings** @ [insight.aroice.in](https://insight.aroice.in)  
 
-- 🎥 **Videos** @ [Aroice on YouTube](https://youtube.com/@aroice)  
+- 🎥 **Videos** @ [AROICE on YouTube](https://youtube.com/@aroice)  
 
 
 ---
