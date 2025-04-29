@@ -95,3 +95,6 @@ Instead of listing tools for flex — here's what I *actually use* regularly:
 <!-- > "Create impact. Create something that resonates and truly connects." -->
 
 > ✨ "Create impact. Build what resonates, what truly connects." - [@aroice](https://aroice.in)
+
+
+[![Aryan Techie's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Techie&bg_color=0d1117&color=dedede&line=033a16&point=56d364&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
