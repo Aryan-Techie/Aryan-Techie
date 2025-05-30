@@ -49,6 +49,9 @@
   - Scroll effortlessly using your volume wheel.
   - Designed for flow, speed, and focus.
 
+- [**🔥 ASHES** - *New Tab Reimagined*](https://github.com/aroice-hq/ashes)
+  - Your mortality, always in sight..
+  - A quiet nudge to stay aware, focused, and alive.
 
 ---
 
