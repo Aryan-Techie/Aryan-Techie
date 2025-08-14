@@ -37,11 +37,15 @@
 
 ### 💎 Open Source Contribution(s)
 
-- [Quartz](https://github.com/jackyzha0/quartz) 
+- [Quartz](https://github.com/jackyzha0/quartz) (22/04/2025)
   - Improved `quartz sync` to support any Git branch
   - [PR #1930](https://github.com/jackyzha0/quartz/pull/1930) — Merged into main repo
 
-- [libfprint-CS9711](https://github.com/ddlsmurf/libfprint-CS9711/issues/7)  
+- [Howdy (facial recognition for Linux)](https://github.com/freedy237/howdy-fedora-install/issues/3) (18/06/2025)
+  - Fixed SELinux GDM login block on Fedora 42 by creating a custom `xdm_t` policy module
+  - Documented the solution in the project’s issue tracker, enabling seamless facial recognition at login
+
+- [libfprint-CS9711](https://github.com/ddlsmurf/libfprint-CS9711/issues/7) (12/08/2025)
   - Authored a **comprehensive Fedora installation guide** for the Chipsailing CS9711 fingerprint reader  
   - Fixed GNOME PAM integration & incorrect password popup issue  
   - Contribution **linked in the project's README** and credited to me
