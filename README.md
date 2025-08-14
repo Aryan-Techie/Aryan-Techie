@@ -1,15 +1,3 @@
-<!--
-<pre>
-+------------------------------------------------------+
-|      █████╗ ██████╗  ██████╗ ██╗ ██████╗███████╗     |
-|     ██╔══██╗██╔══██╗██╔═══██╗██║██╔════╝██╔════╝     |
-|     ███████║██████╔╝██║   ██║██║██║     █████╗       |
-|     ██╔══██║██╔══██╗██║   ██║██║██║     ██╔══╝       |
-|     ██║  ██║██║  ██║╚██████╔╝██║╚██████╗███████╗     |
-|     ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝╚══════╝     |
-+------------------------------------------------------+
-</pre>
--->
 # Hi there, <br> I'm [ARYAN TECHIE](aryan@aroice.in).
 
 > *🔥 I craft tools and distill ideas to quiet the noise, clear the mind, and live with intent.*
@@ -21,18 +9,10 @@
 - 🎓 **Computer Science** student @ *IIT Patna*
     
 - 🚀 I create tools and systems that cut through the noise and drive change.
-- ✨ Love to share what I learn & what inspires me — through code, writings & YouTube videos.
-- 🌱 Always into: Intentional Living, Philosophy, Systems, Tech & Creativity.
-
-- 💎 **Nuggets** @ [AROICE on X](https://x.com/aryantechie)  
-
-- ✍️ **Writings** @ [insight.aroice.in](https://insight.aroice.in)  
-
-- 🎥 **Videos** @ [AROICE on YouTube](https://youtube.com/@aroice)  
-
-
+- ✨ Love to share what I learn & what inspires me, through code, writings & videos.
+- 🌱 Always into Intentional Living, Philosophy, Systems, Tech & Creativity.
+  
 ---
-
 ## 🌟 Highlights
 
 ### 🔧 Projects & Creations
@@ -57,9 +37,14 @@
 
 ### 💎 Open Source Contribution(s)
 
-- [Quartz](https://github.com/jackyzha0/quartz) ✔⃣
+- [Quartz](https://github.com/jackyzha0/quartz) 
   - Improved `quartz sync` to support any Git branch
   - [PR #1930](https://github.com/jackyzha0/quartz/pull/1930) — Merged into main repo
+
+- [libfprint-CS9711](https://github.com/ddlsmurf/libfprint-CS9711/issues/7)  
+  - Authored a **comprehensive Fedora installation guide** for the Chipsailing CS9711 fingerprint reader  
+  - Fixed GNOME PAM integration & incorrect password popup issue  
+  - Contribution **linked in the project's README** and credited to me
 
 ---
 
@@ -99,3 +84,6 @@ Instead of listing tools for flex — here's what I *actually use* regularly:
 <!-- > "Create impact. Create something that resonates and truly connects." -->
 
 > ✨ "Create impact. Build what resonates, what truly connects." - [@aroice](https://aroice.in)
+
+![](https://komarev.com/ghpvc/?username=aryan-techie&color=blue&style=plastic&label=PROFILE+VIEWS)
+
