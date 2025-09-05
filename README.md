@@ -51,6 +51,11 @@
   - Fixed GNOME PAM integration & incorrect password popup issue  
   - Contribution **linked in the project's README** and credited to me
 
+- [Magic Portfolio](https://github.com/once-ui-system/magic-portfolio) (04/09/2025)
+  - Built a **configurable social sharing system** for blog posts across 9 platforms
+  - Added TypeScript-powered component architecture with full accessibility support
+  - [PR #128](https://github.com/once-ui-system/magic-portfolio/pull/128) — Merged into main repo
+  
 ---
 
 ## 🎓 Tech Stack
