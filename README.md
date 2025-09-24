@@ -43,6 +43,10 @@
 
 <br>
 
+- [Weekly Commits](https://github.com/funinkina/weekly-commits) (23/09/2025)
+  - Built a **comprehensive theme system** with 14 color themes and flexible coloring modes
+  - [PR #4](https://github.com/funinkina/weekly-commits/pull/4) — Merged into main repo
+
 - [Magic Portfolio](https://github.com/once-ui-system/magic-portfolio) (04/09/2025)
   - Built a **configurable social sharing system** for blog posts across 9 platforms
   - [PR #128](https://github.com/once-ui-system/magic-portfolio/pull/128) — Merged into main repo
