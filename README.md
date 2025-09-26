@@ -1,109 +1,31 @@
-# Hi there, <br> I'm [ARYAN TECHIE](aryan@aroice.in).
+# Aryan Jangra (aryantechie)
 
-> *🔥 I craft tools and distill ideas to quiet the noise, clear the mind, and live with intent.*
-<!-- > *🔥 I design tools and distill ideas — helping myself and others cut the noise, think clearly, and live with intent.* -->
-
----
-## 🧠 Who I Am
-
-- 🎓 **Computer Science** student @ *IIT Patna*
-    
-- 🚀 I create tools and systems that cut through the noise and drive change.
-- ✨ Love to share what I learn & what inspires me, through code, writings & videos.
-- 🌱 Always into Intentional Living, Philosophy, Systems, Tech & Creativity.
-  
----
-## 🌟 Highlights
-
-### 🔧 Projects & Creations
-
--  [**🛡️ ARGON** - *Your Shield Against Chaos*](https://argon.aroice.in) - (A Chrome Extension)
-    - Helps you reduce distractions and reclaim your precious attention.
-    - Custom blocking, analytics, focus mode — a mindful system for the digital world.
-
-- [**📝 INSIGHT** - *A Creator Journal*](https://aryantechie.com/blog)
-  - Not niche-based — just what I feel is worth sharing
-  - Includes tech, mental models, creative systems, and notes from the journey.
-  - Archive - [insight.aroice.in](https://insight.aroice.in/Posts/)
-
-- [**🎛️ SMART SCROLL** - *Reimagine volume knob*](https://github.com/Aryan-Techie/SmartScroll)
-  - Scroll effortlessly using your volume wheel.
-  - Designed for flow, speed, and focus.
-
-- [**🔥 ASHES** - *New Tab Reimagined*](https://github.com/aroice-hq/ashes)
-  - Your mortality, always in sight..
-  - A quiet nudge to stay aware, focused, and alive.
-
----
-
-### 💎 Open Source Contribution(s)
-
-<details>
-<summary><strong>🔍 Click to view all contributions</strong></summary>
-
-<br>
-
-- [Weekly Commits](https://github.com/funinkina/weekly-commits) (23/09/2025)
-  - Built a **comprehensive theme system** with 14 color themes and flexible coloring modes
-  - [PR #4](https://github.com/funinkina/weekly-commits/pull/4) — Merged into main repo
-
-- [Magic Portfolio](https://github.com/once-ui-system/magic-portfolio) (04/09/2025)
-  - Built a **configurable social sharing system** for blog posts across 9 platforms
-  - [PR #128](https://github.com/once-ui-system/magic-portfolio/pull/128) — Merged into main repo
-
-- [libfprint-CS9711](https://github.com/ddlsmurf/libfprint-CS9711/issues/7) (12/08/2025)
-  - Authored a **comprehensive Fedora installation guide** for the Chipsailing CS9711 fingerprint reader  
-  - Fixed GNOME PAM integration & incorrect password popup issue  
-  - Contribution **linked in the project's README** and credited to me
-
-- [Howdy (facial recognition for Linux)](https://github.com/freedy237/howdy-fedora-install/issues/3) (18/06/2025)
-  - Fixed SELinux GDM login block on Fedora 42 by creating a custom `xdm_t` policy module
-  - Documented the solution in the project's issue tracker, enabling seamless facial recognition at login
-
-- [Quartz](https://github.com/jackyzha0/quartz) (22/04/2025)
-  - Improved `quartz sync` to support any Git branch
-  - [PR #1930](https://github.com/jackyzha0/quartz/pull/1930) — Merged into main repo
-
-</details>
-  
----
-
-## 🎓 Tech Stack
-
-Instead of listing tools for flex — here's what I *actually use* regularly:
-
-- **[Languages](https://en.wikipedia.org/wiki/Programming_language):** Python, JavaScript/TypeScript, Bash ...
-- **Front-end:** React, Tailwind, HTML/CSS/JS
-- **Back-end / Static:** Node.js, [Quartz ](https://github.com/jackyzha0/quartz)([*Eleventy*](https://www.11ty.dev/))
-- **[OSs](https://en.wikipedia.org/wiki/Operating_system):** Windows, [Arch](https://archlinux.org) ([*Garuda Linux*](https://garudalinux.org))
-- **Tools & Flow:** Obsidian, Notion, Git/Github, VS Code, Cloudflare ...
-
-
----
-
-## 🚀 What I'm Exploring Now...
-
-- Creating systems that automate creative output
-- Building workflows to **reduce friction** between idea → creation → publish
-- Writing publicly to share ideas & clarify thinking
-- Merging concepts with code, philosophy & product.
-
-
----
-
-## 💬 Let's Connect
-
-- 🌐 Website: [aroice.in](https://aroice.in)
-- ✍️ Notes: [insight.aroice.in](https://insight.aroice.in)
-- 💼 LinkedIn: [@aryantechie](https://www.linkedin.com/in/aryantechie/)
-- 🎥 YouTube: [@aroice](https://youtube.com/@aroice)
-- 🐦 X (formerly Twitter): [@realaroice](https://twitter.com/realaroice)
-
----
-
-<!-- > "Create impact. Create something that resonates and truly connects." -->
-
-> ✨ "Create impact. Build what resonates, what truly connects." - [@aroice](https://aroice.in)
+Indie Creator | Open Source Contributor | 
 
 ![](https://komarev.com/ghpvc/?username=aryan-techie&color=blue&style=plastic&label=PROFILE+VIEWS)
+[![Blog](https://img.shields.io/badge/blogs-insight.aroice.in-0077B5?style=plastic)](https://insight.aroice.in)
+![GitHub User's stars](https://img.shields.io/github/stars/aryan-techie?style=plastic)
 
+### about me;
+• **Computer Science** student @ *IIT Patna '28* 🎓  
+• **Founder** of [AROICE](https://aroice.in) - building thoughtful digital tools for intentional living  
+• **Content creator** on [@aroice](https://youtube.com/@aroice) - videos on focus, philosophy & creativity  
+• **Linux enthusiast** - daily drives Fedora + GNOME  
+• **Chrome extension developer** - created 🛡️[ARGON](https://argon.aroice.in) & 🔥[ASHES](https://ashes.aroice.in)  
+• Works with **JavaScript/TypeScript**, React, Chrome Extension APIs, Python  
+
+*know more about me at  [aryantechie.com/about](https://aryantechie.com/about)  
+my writings - [aryantechie.com/blog](https://aryantechie.com/blog)*
+
+## get in touch
+[![Website](https://img.shields.io/badge/Website-aryantechie.com-6366f1?style=flat-square)](https://aryantechie.com)
+[![AROICE](https://img.shields.io/badge/AROICE-aroice.in-6366f1?style=flat-square&)](https://aroice.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aryantechie-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryantechie/)
+[![YouTube](https://img.shields.io/badge/YouTube-aroice-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@aroice)
+[![X](https://img.shields.io/badge/X-realaroice-grey?style=flat-square&logo=x)](https://twitter.com/realaroice)
+
+## more about my work
+📁 [Projects & Creations](https://aryantechie.com/work)  
+🏆 [Open Source Contributions](./CONTRIBUTIONS.md)  
+
+> ✨ "Create impact. Build what resonates, what truly connects." - [@aroice](https://aroice.in)
