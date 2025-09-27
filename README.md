@@ -21,6 +21,7 @@ my writings - [aryantechie.com/blog](https://aryantechie.com/blog)*
 [![Website](https://img.shields.io/badge/Website-aryantechie.com-6366f1?style=flat-square)](https://aryantechie.com)
 [![AROICE](https://img.shields.io/badge/AROICE-aroice.in-6366f1?style=flat-square&)](https://aroice.in)
 [![Email](https://img.shields.io/badge/Email-aryan@aroice.in-EA4335?style=flat-square&logo=gmail)](mailto:aryan@aroice.in)
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryantechie-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aryantechie/)
 [![YouTube](https://img.shields.io/badge/YouTube-aroice-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@aroice)
 [![X](https://img.shields.io/badge/X-realaroice-grey?style=flat-square&logo=x)](https://twitter.com/realaroice)
