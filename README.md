@@ -1,6 +1,6 @@
 # Aryan Jangra (aryantechie)
 
-Indie Creator | Open Source Contributor | 
+Indie Creator | Open Source Contributor | Writer
 
 ![](https://komarev.com/ghpvc/?username=aryan-techie&color=blue&style=plastic&label=PROFILE+VIEWS)
 [![Blog](https://img.shields.io/badge/blogs-insight.aroice.in-0077B5?style=plastic)](https://insight.aroice.in)
