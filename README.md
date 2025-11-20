@@ -10,7 +10,7 @@ Indie Creator | Open Source Contributor | Writer
 • **Computer Science** student @ *IIT Patna '28* 🎓  
 • **Founder** of [AROICE](https://aroice.in) - building thoughtful digital tools for intentional living  
 • **Content creator** on [@aroice](https://youtube.com/@aroice) - videos on focus, philosophy & creativity  
-• **Linux enthusiast** - daily drives Fedora + GNOME  
+• **Linux enthusiast** - daily drives Fedora + GNOME | 🐵[MONKEYBAR](https://monkeybar.aroice.in) Creator.
 • **Chrome extension developer** - created 🛡️[ARGON](https://argon.aroice.in) & 🔥[ASHES](https://ashes.aroice.in)  
 • Works with **JavaScript/TypeScript**, React, Chrome Extension APIs, Python  
 
